@@ -35,7 +35,7 @@ The project leverages the following technologies:
 
 ## Installation
 
-1. Clônez ce dépôt sur votre machine locale.
+1. Clone this repository to your local machine.
 
 ```shell
 git clone https://github.com/Ghaziyassine/TP-Spring-boot-Swagger.git
