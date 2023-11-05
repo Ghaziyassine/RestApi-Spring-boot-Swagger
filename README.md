@@ -39,7 +39,7 @@ The project leverages the following technologies:
 1. Clônez ce dépôt sur votre machine locale.
 
 ```shell
-git clone https://github.com/Ghaziyassine/TP-AJAX-2.git
+git clone https://github.com/Ghaziyassine/TP-Spring-boot-Swagger.git
 ```
 ## Auteurs
 
