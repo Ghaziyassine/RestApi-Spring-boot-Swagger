@@ -11,8 +11,7 @@ Welcome to the official documentation for the Spring Boot project, Project Name.
 5. [Auteurs](#auteurs)
 
 ## Project Overview
- The purpose of this Spring Boot project is to create a web application that manages and tracks student information within educational institutions. It facilitates user authentication, allowing students and administrators to access and manage student records, course details, and associated roles. The goal is to provide a user-friendly and secure platform for efficient student management and reporting. 
-
+The purpose of this Spring Boot project is to create a web application that manages and tracks student information within educational institutions. It facilitates user authentication, allowing students and administrators to access and manage student records, course details, and associated roles. Additionally, the project leverages Swagger (OpenAPI) for API documentation, making it easier for developers to understand and interact with the project's endpoints. The goal is to provide a user-friendly and secure platform for efficient student management and reporting, while also offering clear and well-documented APIs for seamless integration and development.
 ## Technologies Used
 The project leverages the following technologies:
 
