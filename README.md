@@ -1,5 +1,5 @@
 
-# Spring Boot Project 
+# Spring-Boot-Swagger Project 
 
 Welcome to the official documentation for the Spring Boot project, Project Name. This README provides an overview of the project, its structure, and how to get started.
 
