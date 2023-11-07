@@ -29,9 +29,47 @@ The project leverages the following technologies:
 
 ![image](https://github.com/Ghaziyassine/TP-Spring-boot/assets/114885285/a49d223e-87d9-462c-bafe-7f171db6e004)
 
-**API Documentation:**
-![image](https://github.com/Ghaziyassine/TP-Spring-boot/assets/114885285/734237dc-b2b4-4391-920e-45c49ce64a0b)
+Il faut noter bien que les tests ci-dessous sont pour la gestion des filières. Les processus de test pour les endpoints des étudiants et des rôles suivent la même logique et la même procédure.
 
+**Tests des Endpoints avec Postman :**
+
+- Liste des filières
+  
+![image](https://github.com/nainiaasmaa/TP-Spring-Boot/assets/147659638/0d174b1f-91a8-449f-bfcf-dde1955334d9)
+
+- Création d'une filière 
+
+![image](https://github.com/nainiaasmaa/TP-Spring-Boot/assets/147659638/02dad0cb-6d9b-4def-803b-4beba60f67ae)
+
+- Suppression d'une filière dont l'ID existe dans la base de donnèes 
+
+![image](https://github.com/nainiaasmaa/TP-Spring-Boot/assets/147659638/50efc333-b5f8-4a44-a268-5479127285f4)
+
+- Suppression d'une filière dont l'ID n'existe pas dans la base de donnèes
+
+![image](https://github.com/nainiaasmaa/TP-Spring-Boot/assets/147659638/e54df0d3-8035-4883-afe4-94a9bf49e2ae)
+
+- Modification d'une filière
+
+ ![image](https://github.com/nainiaasmaa/TP-Spring-Boot/assets/147659638/ee81a70b-3001-4595-805c-9e522fedbfbf)
+
+**Tests des Endpoints avec Swagger :**
+
+- Liste des filières
+  
+![image](https://github.com/nainiaasmaa/TP-Spring-Boot/assets/147659638/868bbfc9-459b-4c66-97f2-b37689850d3a)
+
+- Création d'une filière
+
+![image](https://github.com/nainiaasmaa/TP-Spring-Boot/assets/147659638/bb261556-ea2a-4921-980e-9fac7baf5b38)
+
+- Suppression d'une filière 
+
+![image](https://github.com/nainiaasmaa/TP-Spring-Boot/assets/147659638/c2d82a5d-2dc6-476d-ab88-df25c39af1d9)
+ 
+- Modification d'une filière
+
+![image](https://github.com/nainiaasmaa/TP-Spring-Boot/assets/147659638/51ce04aa-76f1-4f1e-8c8b-07d0555b3335)
 
 ## Installation
 
